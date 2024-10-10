@@ -37,7 +37,6 @@ def Using_built_in_Functions():
 
     num1 = int(input("Enter a number: "))
     num2 = int(input("Enter another number: "))
-    print("The product is", num1 * num2)
 
 def Quotes():
     print("This text includes characters such as '\\' '\"' and \"\'\" \n \t This is a new line that starts with a tab\n \t \t This new line start with two tabs")
