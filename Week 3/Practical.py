@@ -74,7 +74,6 @@ def While_loop():
         n *= 2
         print(n, "to the power of", n, "is", n**n)
 
-
 #boolen_expressions()
 #Logic_operators_within_expressions()
 #If_Else_Elif_Statement()
